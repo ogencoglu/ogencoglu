@@ -16,10 +16,6 @@
   <img align="left" alt="Oguzhan Gencoglu Google Scholar" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_scholar.svg" />
 </a>
 
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Gencoglu%2C+O">
-  <img align="left" alt="Oguzhan Gencoglu arXiv" width="32px" src="arxiv.svg" />
-</a>
-
 <a href="https://gitlab.com/Gencoglu">
   <img align="left" alt="Oguzhan Gencoglu GitLab" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
 </a>
