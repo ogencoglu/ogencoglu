@@ -1,6 +1,20 @@
 <p align="center">
   <samp>
-    Hi, I'm Oguzhan, Co-founder and Head of AI at <a href="https://topdatascience.com/">TDS</a>. My expertise is in machine learning and science of data-driven decision making. Nowadays I invest my time in learning business strategy, behavioural biology, and philosophy.
+    Hi, I'm Oğuzhan, Co-founder and Head of AI at <a href="https://topdatascience.com/">TDS</a>.
+  </samp>
+  <br><br>
+</p>
+
+<p align="center">
+  <samp>
+    My expertise is in <b>machine learning</b> and <b>science of data-driven decision making</b>.
+  </samp>
+  <br><br>
+</p>
+
+<p align="center">
+  <samp>
+    Nowadays I invest my time in learning <i>business strategy</i>, <i>behavioural biology</i>, and <i>philosophy</i>.
   </samp>
   <br><br>
 </p>
