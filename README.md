@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://www.google.com/maps/place/Helsinki/@60.11021,24.7385081,10z/data=!3m1!4b1!4m5!3m4!1s0x46920bc796210691:0xcd4ebd843be2f763!8m2!3d60.1698557!4d24.938379">
-  <img align="middle" alt="Oguzhan Gencoglu Location" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_maps.svg" hspace="60" />
+  <img align="middle" alt="Oguzhan Gencoglu Location" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_maps.svg" hspace="30" />
 </a>
 
 <a href="https://topdatascience.com/">
