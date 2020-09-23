@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://topdatascience.com/">
-  <img align="middle" alt="Top Data Science" width="48px" src="https://drive.google.com/uc?export=view&id=1A9GYNDZi7d3AwyIuPQWdfOe3Y_nLVDJ4" hspace="30" />
+  <img align="middle" alt="Top Data Science" width="48px" src="https://raw.githubusercontent.com/ogencoglu/ogencoglu/master/tds_small.jpg" hspace="30" />
 </a>
 
 <a href="https://gitlab.com/Gencoglu">
@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Gencoglu%2C+O">
-  <img align="middle" alt="Oguzhan Gencoglu arXiv" width="48px" src="https://drive.google.com/uc?export=view&id=1elt7hjPtx_EQ4qordZq0QUQxnpebgpYi" hspace="30" />
+  <img align="middle" alt="Oguzhan Gencoglu arXiv" width="48px" src="https://raw.githubusercontent.com/ogencoglu/ogencoglu/master/arxiv2_small.jpg" hspace="30" />
 </a>
 
 <a href="https://www.linkedin.com/in/ogencoglu/">
