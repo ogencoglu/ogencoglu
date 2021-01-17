@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm Oğuzhan, Co-founder & Head of AI at <a href="https://topdatascience.com/">TDS</a>.
+    Hi, I'm <b>Oğuzhan</b>, Co-founder & Head of AI at <a href="https://topdatascience.com/">TDS</a>.
   </samp>
   <br><br>
 </p>
