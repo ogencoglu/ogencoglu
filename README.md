@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-    Nowadays I am <a href="https://www.laconic.fi/about/">an advisor</a> to various companies. I take a <b>holistic view</b> to my domain.
+    Nowadays I am <a href="https://www.laconic.fi/about/">an advisor</a> to various companies and I take a <b>holistic view</b> to my domain.
   <br><br>
 </p>
